@@ -1,0 +1,1488 @@
+1529735357813	geckodriver	INFO	geckodriver 0.18.0
+1529735357817	geckodriver	INFO	Listening on 127.0.0.1:38943
+1529735359025	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529735363286	Marionette	INFO	Listening on port 44629
+1529735363367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529735492457	geckodriver	INFO	geckodriver 0.18.0
+1529735492461	geckodriver	INFO	Listening on 127.0.0.1:44717
+1529735493688	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529735498090	Marionette	INFO	Listening on port 40897
+1529735498127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Error requesting /_/scs/apps-static/_/js/k=oz.connect.en.G1CqftIXFPE.O/m=c5t/rt=j/sv=1/d=1/ed=1/rs=AGLTcCNvSKEEpDZJs5ObTQALAncWPtx8ZA/cb=gapi.loaded_1: 
+Current location: https://apis.google.com/_/widget/render/signin?usegapi=1&approvalprompt=auto&clientid=442739719837.apps.googleusercontent.com&cookiepolicy=single_host_origin&accesstype=offline&apppackagename=com.application.zomato&state=6ce927e0840d32c501b600244f4aaad7&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&hl=en&origin=https%3A%2F%2Fwww.zomato.com&url=https%3A%2F%2Fwww.zomato.com%2Fahmedabad&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.-oflFoeMflQ.O%2Fm%3D__features__%2Fam%3DwQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCO3mzOGb_qPufOKJw3yeqghEbWhkg#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&id=I0_1529735516045&_gfid=I0_1529735516045&parent=https%3A%2F%2Fwww.zomato.com&pfname=&rpctoken=37186868
+JavaScript error: , line 0: uncaught exception: Error requesting /_/scs/apps-static/_/js/k=oz.gapi.en_US.-oflFoeMflQ.O/m=googleapis_client,gapi_iframes_style_common,gapi_iframes_iframer/rt=j/sv=1/d=1/ed=1/am=wQ/rs=AGLTcCO3mzOGb_qPufOKJw3yeqghEbWhkg/cb=gapi.loaded_0: 
+Current location: https://apis.google.com/_/widget/render/signin?usegapi=1&approvalprompt=auto&clientid=442739719837.apps.googleusercontent.com&cookiepolicy=single_host_origin&accesstype=offline&apppackagename=com.application.zomato&state=6ce927e0840d32c501b600244f4aaad7&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&hl=en&origin=https%3A%2F%2Fwww.zomato.com&url=https%3A%2F%2Fwww.zomato.com%2Fahmedabad&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.-oflFoeMflQ.O%2Fm%3D__features__%2Fam%3DwQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCO3mzOGb_qPufOKJw3yeqghEbWhkg#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&id=I0_1529735516045&_gfid=I0_1529735516045&parent=https%3A%2F%2Fwww.zomato.com&pfname=&rpctoken=37186868
+1529735735045	geckodriver	INFO	geckodriver 0.18.0
+1529735735048	geckodriver	INFO	Listening on 127.0.0.1:39761
+1529735736259	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529735740345	Marionette	INFO	Listening on port 34001
+1529735740379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Error requesting /_/scs/apps-static/_/js/k=oz.connect.en.G1CqftIXFPE.O/m=c5t/rt=j/sv=1/d=1/ed=1/rs=AGLTcCNvSKEEpDZJs5ObTQALAncWPtx8ZA/cb=gapi.loaded_1: 
+Current location: https://apis.google.com/_/widget/render/signin?usegapi=1&approvalprompt=auto&clientid=442739719837.apps.googleusercontent.com&cookiepolicy=single_host_origin&accesstype=offline&apppackagename=com.application.zomato&state=19bd343c96ac7820b497462d25f2f3b2&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&hl=en&origin=https%3A%2F%2Fwww.zomato.com&url=https%3A%2F%2Fwww.zomato.com%2Fahmedabad&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.-oflFoeMflQ.O%2Fm%3D__features__%2Fam%3DwQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCO3mzOGb_qPufOKJw3yeqghEbWhkg#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&id=I0_1529735755406&_gfid=I0_1529735755406&parent=https%3A%2F%2Fwww.zomato.com&pfname=&rpctoken=30229831
+JavaScript error: , line 0: uncaught exception: Error requesting /_/scs/apps-static/_/js/k=oz.gapi.en_US.-oflFoeMflQ.O/m=googleapis_client,gapi_iframes_style_common,gapi_iframes_iframer/rt=j/sv=1/d=1/ed=1/am=wQ/rs=AGLTcCO3mzOGb_qPufOKJw3yeqghEbWhkg/cb=gapi.loaded_0: 
+Current location: https://apis.google.com/_/widget/render/signin?usegapi=1&approvalprompt=auto&clientid=442739719837.apps.googleusercontent.com&cookiepolicy=single_host_origin&accesstype=offline&apppackagename=com.application.zomato&state=19bd343c96ac7820b497462d25f2f3b2&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&hl=en&origin=https%3A%2F%2Fwww.zomato.com&url=https%3A%2F%2Fwww.zomato.com%2Fahmedabad&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.-oflFoeMflQ.O%2Fm%3D__features__%2Fam%3DwQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCO3mzOGb_qPufOKJw3yeqghEbWhkg#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&id=I0_1529735755406&_gfid=I0_1529735755406&parent=https%3A%2F%2Fwww.zomato.com&pfname=&rpctoken=30229831
+1529735966400	geckodriver	INFO	geckodriver 0.18.0
+1529735966405	geckodriver	INFO	Listening on 127.0.0.1:46587
+1529735967625	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529735971517	Marionette	INFO	Listening on port 42479
+1529735971558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "reactDom"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "react"
+http://requirejs.org/docs/errors.html#scripterror
+1529736783798	geckodriver	INFO	geckodriver 0.18.0
+1529736783801	geckodriver	INFO	Listening on 127.0.0.1:43931
+1529736785071	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529736788775	Marionette	INFO	Listening on port 36783
+1529736788795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Error requesting /_/scs/apps-static/_/js/k=oz.gapi.en_US.-oflFoeMflQ.O/m=googleapis_client,gapi_iframes_style_common,gapi_iframes_iframer/rt=j/sv=1/d=1/ed=1/am=wQ/rs=AGLTcCO3mzOGb_qPufOKJw3yeqghEbWhkg/cb=gapi.loaded_0: 
+Current location: https://apis.google.com/_/widget/render/signin?usegapi=1&approvalprompt=auto&clientid=442739719837.apps.googleusercontent.com&cookiepolicy=single_host_origin&accesstype=offline&apppackagename=com.application.zomato&state=00c7ca60e2103a6a5d17e8fc1295384d&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&hl=en&origin=https%3A%2F%2Fwww.zomato.com&url=https%3A%2F%2Fwww.zomato.com%2Fahmedabad&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.-oflFoeMflQ.O%2Fm%3D__features__%2Fam%3DwQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCO3mzOGb_qPufOKJw3yeqghEbWhkg#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&id=I0_1529736801322&_gfid=I0_1529736801322&parent=https%3A%2F%2Fwww.zomato.com&pfname=&rpctoken=29724841
+1529736853259	geckodriver	INFO	geckodriver 0.18.0
+1529736853263	geckodriver	INFO	Listening on 127.0.0.1:47915
+1529736854481	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529736858404	Marionette	INFO	Listening on port 46093
+1529736858510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "react", needed by: reactDom
+http://requirejs.org/docs/errors.html#scripterror
+[Child 9322, Chrome_ChildThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9355, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9322, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1529906725287	geckodriver	INFO	geckodriver 0.18.0
+1529906725290	geckodriver	INFO	Listening on 127.0.0.1:50935
+1529906726444	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529906730374	Marionette	INFO	Listening on port 32893
+1529906730465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-64af309bee7f18f13b07500f5dc82fe2/l-H4sIAAAAAAAAA32SS3bDMAhFN9Qmi2lHnehgi8gkWLgSSmqvvvIvxRl0Ji6Cx09pyOOpp3i65rdJelA5McRQIOCMWul7iWeFECgG8ynhnfCRDckdpCWmF18Y87lDHjDNxBOwBOur5qq5CbQiN8J8DAe_hu_kWvpGLACfXRAJvOhevwum8TR9SFv1ZjJwqTI1cPUwTCMLeKMLEXhUavOhFmZslSRaineMegA_msDYF2ixqW0Y9NfCBpa2XaYQy2Dw0ImKzT2wjBditixhfi9KL-y5hb0KRO-gVn8nHQ3PCKntLHhO6QBcRH1Ium3b3vcvrkHnkVHRjk8fpHrosOSjWQs-9P8ykAbam6vvAZQatie3X2H1Rq2zNq6vz1TDbJ5_1lISuw6i5_U_U5Mg1VM71yPCFGna0iwiJvGk83sbw_J2dEnQLzVOFGmu6BcobwGpPwMAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-5e2f9ece915c9fe12727bf2c16592df7/l-H4sIAAAAAAAAA12PUW7EMAhEL1QlUqWexyI2a5NiSA2Wujl9HTcf234yw8AbEnPIDWo4tYLrstvb_tWxPZfilT_6wQrpRbXYlDkWMGxLJbmshuNIbyD-d1oh3RuRgWpgMifJl1A1dUZbK56nriPQ_OXJjokcNsZL0_dQkA9sdk_jQTggT_PgnklsZcrFN_3-B0DymJXKMxPKTPQBHuLogNFJZR6FZIPVgjeInzfhA8yT1knV66a_5uwwMycJXcw_RojAP0IBAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-5e2f9ece915c9fe12727bf2c16592df7/l-H4sIAAAAAAAAA12PUW7EMAhEL1QlUqWexyI2a5NiSA2Wujl9HTcf234yw8AbEnPIDWo4tYLrstvb_tWxPZfilT_6wQrpRbXYlDkWMGxLJbmshuNIbyD-d1oh3RuRgWpgMifJl1A1dUZbK56nriPQ_OXJjokcNsZL0_dQkA9sdk_jQTggT_PgnklsZcrFN_3-B0DymJXKMxPKTPQBHuLogNFJZR6FZIPVgjeInzfhA8yT1knV66a_5uwwMycJXcw_RojAP0IBAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-64af309bee7f18f13b07500f5dc82fe2/l-H4sIAAAAAAAAA32SS3bDMAhFN9Qmi2lHnehgi8gkWLgSSmqvvvIvxRl0Ji6Cx09pyOOpp3i65rdJelA5McRQIOCMWul7iWeFECgG8ynhnfCRDckdpCWmF18Y87lDHjDNxBOwBOur5qq5CbQiN8J8DAe_hu_kWvpGLACfXRAJvOhevwum8TR9SFv1ZjJwqTI1cPUwTCMLeKMLEXhUavOhFmZslSRaineMegA_msDYF2ixqW0Y9NfCBpa2XaYQy2Dw0ImKzT2wjBditixhfi9KL-y5hb0KRO-gVn8nHQ3PCKntLHhO6QBcRH1Ium3b3vcvrkHnkVHRjk8fpHrosOSjWQs-9P8ykAbam6vvAZQatie3X2H1Rq2zNq6vz1TDbJ5_1lISuw6i5_U_U5Mg1VM71yPCFGna0iwiJvGk83sbw_J2dEnQLzVOFGmu6BcobwGpPwMAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+1529907925318	geckodriver	INFO	geckodriver 0.18.0
+1529907925321	geckodriver	INFO	Listening on 127.0.0.1:60405
+1529907926483	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529907930380	Marionette	INFO	Listening on port 42635
+1529907930408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529907991122	geckodriver	INFO	geckodriver 0.18.0
+1529907991126	geckodriver	INFO	Listening on 127.0.0.1:45229
+1529907992302	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529907995915	Marionette	INFO	Listening on port 46443
+1529907995929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529908059550	geckodriver	INFO	geckodriver 0.18.0
+1529908059553	geckodriver	INFO	Listening on 127.0.0.1:51405
+1529908060703	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529908064459	Marionette	INFO	Listening on port 40545
+1529908064522	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-a34236c423d0167ab5a69a333b2e8923/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyoGAIkOu2ETAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-64af309bee7f18f13b07500f5dc82fe2/l-H4sIAAAAAAAAA32SS3bDMAhFN9Qmi2lHnehgi8gkWLgSSmqvvvIvxRl0Ji6Cx09pyOOpp3i65rdJelA5McRQIOCMWul7iWeFECgG8ynhnfCRDckdpCWmF18Y87lDHjDNxBOwBOur5qq5CbQiN8J8DAe_hu_kWvpGLACfXRAJvOhevwum8TR9SFv1ZjJwqTI1cPUwTCMLeKMLEXhUavOhFmZslSRaineMegA_msDYF2ixqW0Y9NfCBpa2XaYQy2Dw0ImKzT2wjBditixhfi9KL-y5hb0KRO-gVn8nHQ3PCKntLHhO6QBcRH1Ium3b3vcvrkHnkVHRjk8fpHrosOSjWQs-9P8ykAbam6vvAZQatie3X2H1Rq2zNq6vz1TDbJ5_1lISuw6i5_U_U5Mg1VM71yPCFGna0iwiJvGk83sbw_J2dEnQLzVOFGmu6BcobwGpPwMAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+1529908157158	geckodriver	INFO	geckodriver 0.18.0
+1529908157161	geckodriver	INFO	Listening on 127.0.0.1:55421
+1529908158318	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529908161952	Marionette	INFO	Listening on port 44243
+1529908162034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529908180965	geckodriver	INFO	geckodriver 0.18.0
+1529908180969	geckodriver	INFO	Listening on 127.0.0.1:46773
+1529908182279	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529908186413	Marionette	INFO	Listening on port 36865
+1529908186498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529908335383	geckodriver	INFO	geckodriver 0.18.0
+1529908335386	geckodriver	INFO	Listening on 127.0.0.1:55731
+1529908336540	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529908339911	Marionette	INFO	Listening on port 37621
+1529908339973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+[Child 8978, Chrome_ChildThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8978, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1529908442785	geckodriver	INFO	geckodriver 0.18.0
+1529908442789	geckodriver	INFO	Listening on 127.0.0.1:46813
+1529908444081	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529908447607	Marionette	INFO	Listening on port 40449
+1529908447704	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9247, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9247, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1529908551274	geckodriver	INFO	geckodriver 0.18.0
+1529908551277	geckodriver	INFO	Listening on 127.0.0.1:52265
+1529908552430	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529908555852	Marionette	INFO	Listening on port 38251
+1529908555954	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9438, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1529908638333	geckodriver	INFO	geckodriver 0.18.0
+1529908638337	geckodriver	INFO	Listening on 127.0.0.1:42597
+1529908639496	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529908643142	Marionette	INFO	Listening on port 46827
+1529908643212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-a34236c423d0167ab5a69a333b2e8923/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyoGAIkOu2ETAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4D0002,name=PLayerTransaction::Msg_Update) Channel error: cannot send/recv
+
+1529908776632	geckodriver	INFO	geckodriver 0.18.0
+1529908776639	geckodriver	INFO	Listening on 127.0.0.1:60063
+1529908777884	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529908782184	Marionette	INFO	Listening on port 42627
+1529908782206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529908907336	geckodriver	INFO	geckodriver 0.18.0
+1529908907340	geckodriver	INFO	Listening on 127.0.0.1:34297
+1529908908519	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529908912159	Marionette	INFO	Listening on port 43849
+1529908912238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529909359261	geckodriver	INFO	geckodriver 0.18.0
+1529909359266	geckodriver	INFO	Listening on 127.0.0.1:35133
+1529909360582	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529909364219	Marionette	INFO	Listening on port 42173
+1529909364304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529909392287	geckodriver	INFO	geckodriver 0.18.0
+1529909392293	geckodriver	INFO	Listening on 127.0.0.1:48699
+1529909393433	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529909397192	Marionette	INFO	Listening on port 39505
+1529909397251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529909397325	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+1529909397333	Marionette	DEBUG	Register listener.js for window 2147483649
+1529909397338	Marionette	ERROR	No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 464: TypeError: reply[0] is undefined
+[Child 10608, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00CC,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1529909401630	geckodriver	INFO	geckodriver 0.18.0
+1529909401635	geckodriver	INFO	Listening on 127.0.0.1:45947
+1529909402847	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529909406793	Marionette	INFO	Listening on port 38401
+1529909406913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-64af309bee7f18f13b07500f5dc82fe2/l-H4sIAAAAAAAAA32SS3bDMAhFN9Qmi2lHnehgi8gkWLgSSmqvvvIvxRl0Ji6Cx09pyOOpp3i65rdJelA5McRQIOCMWul7iWeFECgG8ynhnfCRDckdpCWmF18Y87lDHjDNxBOwBOur5qq5CbQiN8J8DAe_hu_kWvpGLACfXRAJvOhevwum8TR9SFv1ZjJwqTI1cPUwTCMLeKMLEXhUavOhFmZslSRaineMegA_msDYF2ixqW0Y9NfCBpa2XaYQy2Dw0ImKzT2wjBditixhfi9KL-y5hb0KRO-gVn8nHQ3PCKntLHhO6QBcRH1Ium3b3vcvrkHnkVHRjk8fpHrosOSjWQs-9P8ykAbam6vvAZQatie3X2H1Rq2zNq6vz1TDbJ5_1lISuw6i5_U_U5Mg1VM71yPCFGna0iwiJvGk83sbw_J2dEnQLzVOFGmu6BcobwGpPwMAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+1529909518226	geckodriver	INFO	geckodriver 0.18.0
+1529909518232	geckodriver	INFO	Listening on 127.0.0.1:41841
+1529909519419	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529909523497	Marionette	INFO	Listening on port 43651
+1529909523548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529909608888	geckodriver	INFO	geckodriver 0.18.0
+1529909608891	geckodriver	INFO	Listening on 127.0.0.1:43427
+1529909610105	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529909613724	Marionette	INFO	Listening on port 41277
+1529909613830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+1529909679032	geckodriver	INFO	geckodriver 0.18.0
+1529909679037	geckodriver	INFO	Listening on 127.0.0.1:52815
+1529909680242	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529909684114	Marionette	INFO	Listening on port 40125
+1529909684162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-a34236c423d0167ab5a69a333b2e8923/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyoGAIkOu2ETAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+[Child 11379, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1529909783483	geckodriver	INFO	geckodriver 0.18.0
+1529909783490	geckodriver	INFO	Listening on 127.0.0.1:47925
+1529909784663	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529909788381	Marionette	INFO	Listening on port 40533
+1529909788482	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11582, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1529909869833	geckodriver	INFO	geckodriver 0.18.0
+1529909869839	geckodriver	INFO	Listening on 127.0.0.1:53459
+1529909871008	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529909875044	Marionette	INFO	Listening on port 34651
+1529909875127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-a34236c423d0167ab5a69a333b2e8923/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyoGAIkOu2ETAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-64af309bee7f18f13b07500f5dc82fe2/l-H4sIAAAAAAAAA32SS3bDMAhFN9Qmi2lHnehgi8gkWLgSSmqvvvIvxRl0Ji6Cx09pyOOpp3i65rdJelA5McRQIOCMWul7iWeFECgG8ynhnfCRDckdpCWmF18Y87lDHjDNxBOwBOur5qq5CbQiN8J8DAe_hu_kWvpGLACfXRAJvOhevwum8TR9SFv1ZjJwqTI1cPUwTCMLeKMLEXhUavOhFmZslSRaineMegA_msDYF2ixqW0Y9NfCBpa2XaYQy2Dw0ImKzT2wjBditixhfi9KL-y5hb0KRO-gVn8nHQ3PCKntLHhO6QBcRH1Ium3b3vcvrkHnkVHRjk8fpHrosOSjWQs-9P8ykAbam6vvAZQatie3X2H1Rq2zNq6vz1TDbJ5_1lISuw6i5_U_U5Mg1VM71yPCFGna0iwiJvGk83sbw_J2dEnQLzVOFGmu6BcobwGpPwMAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+1529909998377	geckodriver	INFO	geckodriver 0.18.0
+1529909998380	geckodriver	INFO	Listening on 127.0.0.1:43189
+1529909999577	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529910003322	Marionette	INFO	Listening on port 40395
+1529910003416	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-a34236c423d0167ab5a69a333b2e8923/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyoGAIkOu2ETAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+1529910079230	geckodriver	INFO	geckodriver 0.18.0
+1529910079233	geckodriver	INFO	Listening on 127.0.0.1:46839
+1529910080483	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529910084556	Marionette	INFO	Listening on port 36317
+1529910084606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-a34236c423d0167ab5a69a333b2e8923/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyoGAIkOu2ETAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-64af309bee7f18f13b07500f5dc82fe2/l-H4sIAAAAAAAAA32SS3bDMAhFN9Qmi2lHnehgi8gkWLgSSmqvvvIvxRl0Ji6Cx09pyOOpp3i65rdJelA5McRQIOCMWul7iWeFECgG8ynhnfCRDckdpCWmF18Y87lDHjDNxBOwBOur5qq5CbQiN8J8DAe_hu_kWvpGLACfXRAJvOhevwum8TR9SFv1ZjJwqTI1cPUwTCMLeKMLEXhUavOhFmZslSRaineMegA_msDYF2ixqW0Y9NfCBpa2XaYQy2Dw0ImKzT2wjBditixhfi9KL-y5hb0KRO-gVn8nHQ3PCKntLHhO6QBcRH1Ium3b3vcvrkHnkVHRjk8fpHrosOSjWQs-9P8ykAbam6vvAZQatie3X2H1Rq2zNq6vz1TDbJ5_1lISuw6i5_U_U5Mg1VM71yPCFGna0iwiJvGk83sbw_J2dEnQLzVOFGmu6BcobwGpPwMAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-5e2f9ece915c9fe12727bf2c16592df7/l-H4sIAAAAAAAAA12PUW7EMAhEL1QlUqWexyI2a5NiSA2Wujl9HTcf234yw8AbEnPIDWo4tYLrstvb_tWxPZfilT_6wQrpRbXYlDkWMGxLJbmshuNIbyD-d1oh3RuRgWpgMifJl1A1dUZbK56nriPQ_OXJjokcNsZL0_dQkA9sdk_jQTggT_PgnklsZcrFN_3-B0DymJXKMxPKTPQBHuLogNFJZR6FZIPVgjeInzfhA8yT1knV66a_5uwwMycJXcw_RojAP0IBAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-5e2f9ece915c9fe12727bf2c16592df7/l-H4sIAAAAAAAAA12PUW7EMAhEL1QlUqWexyI2a5NiSA2Wujl9HTcf234yw8AbEnPIDWo4tYLrstvb_tWxPZfilT_6wQrpRbXYlDkWMGxLJbmshuNIbyD-d1oh3RuRgWpgMifJl1A1dUZbK56nriPQ_OXJjokcNsZL0_dQkA9sdk_jQTggT_PgnklsZcrFN_3-B0DymJXKMxPKTPQBHuLogNFJZR6FZIPVgjeInzfhA8yT1knV66a_5uwwMycJXcw_RojAP0IBAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-64af309bee7f18f13b07500f5dc82fe2/l-H4sIAAAAAAAAA32SS3bDMAhFN9Qmi2lHnehgi8gkWLgSSmqvvvIvxRl0Ji6Cx09pyOOpp3i65rdJelA5McRQIOCMWul7iWeFECgG8ynhnfCRDckdpCWmF18Y87lDHjDNxBOwBOur5qq5CbQiN8J8DAe_hu_kWvpGLACfXRAJvOhevwum8TR9SFv1ZjJwqTI1cPUwTCMLeKMLEXhUavOhFmZslSRaineMegA_msDYF2ixqW0Y9NfCBpa2XaYQy2Dw0ImKzT2wjBditixhfi9KL-y5hb0KRO-gVn8nHQ3PCKntLHhO6QBcRH1Ium3b3vcvrkHnkVHRjk8fpHrosOSjWQs-9P8ykAbam6vvAZQatie3X2H1Rq2zNq6vz1TDbJ5_1lISuw6i5_U_U5Mg1VM71yPCFGna0iwiJvGk83sbw_J2dEnQLzVOFGmu6BcobwGpPwMAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+[Child 12322, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1529910143319	geckodriver	INFO	geckodriver 0.18.0
+1529910143324	geckodriver	INFO	Listening on 127.0.0.1:41081
+1529910144498	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529910148378	Marionette	INFO	Listening on port 40665
+1529910148423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "react", needed by: reactDom
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-64af309bee7f18f13b07500f5dc82fe2/l-H4sIAAAAAAAAA32SS3bDMAhFN9Qmi2lHnehgi8gkWLgSSmqvvvIvxRl0Ji6Cx09pyOOpp3i65rdJelA5McRQIOCMWul7iWeFECgG8ynhnfCRDckdpCWmF18Y87lDHjDNxBOwBOur5qq5CbQiN8J8DAe_hu_kWvpGLACfXRAJvOhevwum8TR9SFv1ZjJwqTI1cPUwTCMLeKMLEXhUavOhFmZslSRaineMegA_msDYF2ixqW0Y9NfCBpa2XaYQy2Dw0ImKzT2wjBditixhfi9KL-y5hb0KRO-gVn8nHQ3PCKntLHhO6QBcRH1Ium3b3vcvrkHnkVHRjk8fpHrosOSjWQs-9P8ykAbam6vvAZQatie3X2H1Rq2zNq6vz1TDbJ5_1lISuw6i5_U_U5Mg1VM71yPCFGna0iwiJvGk83sbw_J2dEnQLzVOFGmu6BcobwGpPwMAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-5e2f9ece915c9fe12727bf2c16592df7/l-H4sIAAAAAAAAA12PUW7EMAhEL1QlUqWexyI2a5NiSA2Wujl9HTcf234yw8AbEnPIDWo4tYLrstvb_tWxPZfilT_6wQrpRbXYlDkWMGxLJbmshuNIbyD-d1oh3RuRgWpgMifJl1A1dUZbK56nriPQ_OXJjokcNsZL0_dQkA9sdk_jQTggT_PgnklsZcrFN_3-B0DymJXKMxPKTPQBHuLogNFJZR6FZIPVgjeInzfhA8yT1knV66a_5uwwMycJXcw_RojAP0IBAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-64af309bee7f18f13b07500f5dc82fe2/l-H4sIAAAAAAAAA32SS3bDMAhFN9Qmi2lHnehgi8gkWLgSSmqvvvIvxRl0Ji6Cx09pyOOpp3i65rdJelA5McRQIOCMWul7iWeFECgG8ynhnfCRDckdpCWmF18Y87lDHjDNxBOwBOur5qq5CbQiN8J8DAe_hu_kWvpGLACfXRAJvOhevwum8TR9SFv1ZjJwqTI1cPUwTCMLeKMLEXhUavOhFmZslSRaineMegA_msDYF2ixqW0Y9NfCBpa2XaYQy2Dw0ImKzT2wjBditixhfi9KL-y5hb0KRO-gVn8nHQ3PCKntLHhO6QBcRH1Ium3b3vcvrkHnkVHRjk8fpHrosOSjWQs-9P8ykAbam6vvAZQatie3X2H1Rq2zNq6vz1TDbJ5_1lISuw6i5_U_U5Mg1VM71yPCFGna0iwiJvGk83sbw_J2dEnQLzVOFGmu6BcobwGpPwMAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-5e2f9ece915c9fe12727bf2c16592df7/l-H4sIAAAAAAAAA12PUW7EMAhEL1QlUqWexyI2a5NiSA2Wujl9HTcf234yw8AbEnPIDWo4tYLrstvb_tWxPZfilT_6wQrpRbXYlDkWMGxLJbmshuNIbyD-d1oh3RuRgWpgMifJl1A1dUZbK56nriPQ_OXJjokcNsZL0_dQkA9sdk_jQTggT_PgnklsZcrFN_3-B0DymJXKMxPKTPQBHuLogNFJZR6FZIPVgjeInzfhA8yT1knV66a_5uwwMycJXcw_RojAP0IBAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+1529910223294	geckodriver	INFO	geckodriver 0.18.0
+1529910223298	geckodriver	INFO	Listening on 127.0.0.1:59363
+1529910224490	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529910228637	Marionette	INFO	Listening on port 41673
+1529910228712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-a34236c423d0167ab5a69a333b2e8923/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyoGAIkOu2ETAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-b22c9bd277bd0d7e3e6ea5f8484159b3/l-H4sIAAAAAAAAAytOTSxKzojPzCtJLSouySzJTMzRyyoGAOvLseoWAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+1529910273247	geckodriver	INFO	geckodriver 0.18.0
+1529910273252	geckodriver	INFO	Listening on 127.0.0.1:54557
+1529910274465	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529910278663	Marionette	INFO	Listening on port 33981
+1529910278689	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529910347488	geckodriver	INFO	geckodriver 0.18.0
+1529910347491	geckodriver	INFO	Listening on 127.0.0.1:56335
+1529910348674	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529910352477	Marionette	INFO	Listening on port 45363
+1529910352499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-a34236c423d0167ab5a69a333b2e8923/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyoGAIkOu2ETAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-877a45f16119784919b3129467c45cbb/l-H4sIAAAAAAAAAzWN0Q7CIAxFf0jQ7WN8Jci6UQWKLcTMr5du8aHJOfemuSGSQLHPdwfebcaBcjnNdDSTnW52NqFLo_yvE_g1QVMU8ByiUo3U6I7wAVal2UVIFVjUSmXaGOQQv8h1nGvswwvLptnqpS1jQcd7ftBZuoTSjp8vFtTBH3Z5gYivAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-5e2f9ece915c9fe12727bf2c16592df7/l-H4sIAAAAAAAAA12PUW7EMAhEL1QlUqWexyI2a5NiSA2Wujl9HTcf234yw8AbEnPIDWo4tYLrstvb_tWxPZfilT_6wQrpRbXYlDkWMGxLJbmshuNIbyD-d1oh3RuRgWpgMifJl1A1dUZbK56nriPQ_OXJjokcNsZL0_dQkA9sdk_jQTggT_PgnklsZcrFN_3-B0DymJXKMxPKTPQBHuLogNFJZR6FZIPVgjeInzfhA8yT1knV66a_5uwwMycJXcw_RojAP0IBAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-64af309bee7f18f13b07500f5dc82fe2/l-H4sIAAAAAAAAA32SS3bDMAhFN9Qmi2lHnehgi8gkWLgSSmqvvvIvxRl0Ji6Cx09pyOOpp3i65rdJelA5McRQIOCMWul7iWeFECgG8ynhnfCRDckdpCWmF18Y87lDHjDNxBOwBOur5qq5CbQiN8J8DAe_hu_kWvpGLACfXRAJvOhevwum8TR9SFv1ZjJwqTI1cPUwTCMLeKMLEXhUavOhFmZslSRaineMegA_msDYF2ixqW0Y9NfCBpa2XaYQy2Dw0ImKzT2wjBditixhfi9KL-y5hb0KRO-gVn8nHQ3PCKntLHhO6QBcRH1Ium3b3vcvrkHnkVHRjk8fpHrosOSjWQs-9P8ykAbam6vvAZQatie3X2H1Rq2zNq6vz1TDbJ5_1lISuw6i5_U_U5Mg1VM71yPCFGna0iwiJvGk83sbw_J2dEnQLzVOFGmu6BcobwGpPwMAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-5e2f9ece915c9fe12727bf2c16592df7/l-H4sIAAAAAAAAA12PUW7EMAhEL1QlUqWexyI2a5NiSA2Wujl9HTcf234yw8AbEnPIDWo4tYLrstvb_tWxPZfilT_6wQrpRbXYlDkWMGxLJbmshuNIbyD-d1oh3RuRgWpgMifJl1A1dUZbK56nriPQ_OXJjokcNsZL0_dQkA9sdk_jQTggT_PgnklsZcrFN_3-B0DymJXKMxPKTPQBHuLogNFJZR6FZIPVgjeInzfhA8yT1knV66a_5uwwMycJXcw_RojAP0IBAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-64af309bee7f18f13b07500f5dc82fe2/l-H4sIAAAAAAAAA32SS3bDMAhFN9Qmi2lHnehgi8gkWLgSSmqvvvIvxRl0Ji6Cx09pyOOpp3i65rdJelA5McRQIOCMWul7iWeFECgG8ynhnfCRDckdpCWmF18Y87lDHjDNxBOwBOur5qq5CbQiN8J8DAe_hu_kWvpGLACfXRAJvOhevwum8TR9SFv1ZjJwqTI1cPUwTCMLeKMLEXhUavOhFmZslSRaineMegA_msDYF2ixqW0Y9NfCBpa2XaYQy2Dw0ImKzT2wjBditixhfi9KL-y5hb0KRO-gVn8nHQ3PCKntLHhO6QBcRH1Ium3b3vcvrkHnkVHRjk8fpHrosOSjWQs-9P8ykAbam6vvAZQatie3X2H1Rq2zNq6vz1TDbJ5_1lISuw6i5_U_U5Mg1VM71yPCFGna0iwiJvGk83sbw_J2dEnQLzVOFGmu6BcobwGpPwMAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+1529910505204	geckodriver	INFO	geckodriver 0.18.0
+1529910505209	geckodriver	INFO	Listening on 127.0.0.1:56369
+1529910506455	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529910511132	Marionette	INFO	Listening on port 39035
+1529910511187	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13542, Chrome_ChildThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13573, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13542, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1529911137672	geckodriver	INFO	geckodriver 0.18.0
+1529911137675	geckodriver	INFO	Listening on 127.0.0.1:57087
+1529911138874	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529911143107	Marionette	INFO	Listening on port 40083
+1529911143195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529911143643	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529911204157	geckodriver	INFO	geckodriver 0.18.0
+1529911204160	geckodriver	INFO	Listening on 127.0.0.1:37279
+1529911205344	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529911209425	Marionette	INFO	Listening on port 42539
+1529911209481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-64af309bee7f18f13b07500f5dc82fe2/l-H4sIAAAAAAAAA32SS3bDMAhFN9Qmi2lHnehgi8gkWLgSSmqvvvIvxRl0Ji6Cx09pyOOpp3i65rdJelA5McRQIOCMWul7iWeFECgG8ynhnfCRDckdpCWmF18Y87lDHjDNxBOwBOur5qq5CbQiN8J8DAe_hu_kWvpGLACfXRAJvOhevwum8TR9SFv1ZjJwqTI1cPUwTCMLeKMLEXhUavOhFmZslSRaineMegA_msDYF2ixqW0Y9NfCBpa2XaYQy2Dw0ImKzT2wjBditixhfi9KL-y5hb0KRO-gVn8nHQ3PCKntLHhO6QBcRH1Ium3b3vcvrkHnkVHRjk8fpHrosOSjWQs-9P8ykAbam6vvAZQatie3X2H1Rq2zNq6vz1TDbJ5_1lISuw6i5_U_U5Mg1VM71yPCFGna0iwiJvGk83sbw_J2dEnQLzVOFGmu6BcobwGpPwMAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-5e2f9ece915c9fe12727bf2c16592df7/l-H4sIAAAAAAAAA12PUW7EMAhEL1QlUqWexyI2a5NiSA2Wujl9HTcf234yw8AbEnPIDWo4tYLrstvb_tWxPZfilT_6wQrpRbXYlDkWMGxLJbmshuNIbyD-d1oh3RuRgWpgMifJl1A1dUZbK56nriPQ_OXJjokcNsZL0_dQkA9sdk_jQTggT_PgnklsZcrFN_3-B0DymJXKMxPKTPQBHuLogNFJZR6FZIPVgjeInzfhA8yT1knV66a_5uwwMycJXcw_RojAP0IBAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-64af309bee7f18f13b07500f5dc82fe2/l-H4sIAAAAAAAAA32SS3bDMAhFN9Qmi2lHnehgi8gkWLgSSmqvvvIvxRl0Ji6Cx09pyOOpp3i65rdJelA5McRQIOCMWul7iWeFECgG8ynhnfCRDckdpCWmF18Y87lDHjDNxBOwBOur5qq5CbQiN8J8DAe_hu_kWvpGLACfXRAJvOhevwum8TR9SFv1ZjJwqTI1cPUwTCMLeKMLEXhUavOhFmZslSRaineMegA_msDYF2ixqW0Y9NfCBpa2XaYQy2Dw0ImKzT2wjBditixhfi9KL-y5hb0KRO-gVn8nHQ3PCKntLHhO6QBcRH1Ium3b3vcvrkHnkVHRjk8fpHrosOSjWQs-9P8ykAbam6vvAZQatie3X2H1Rq2zNq6vz1TDbJ5_1lISuw6i5_U_U5Mg1VM71yPCFGna0iwiJvGk83sbw_J2dEnQLzVOFGmu6BcobwGpPwMAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-5e2f9ece915c9fe12727bf2c16592df7/l-H4sIAAAAAAAAA12PUW7EMAhEL1QlUqWexyI2a5NiSA2Wujl9HTcf234yw8AbEnPIDWo4tYLrstvb_tWxPZfilT_6wQrpRbXYlDkWMGxLJbmshuNIbyD-d1oh3RuRgWpgMifJl1A1dUZbK56nriPQ_OXJjokcNsZL0_dQkA9sdk_jQTggT_PgnklsZcrFN_3-B0DymJXKMxPKTPQBHuLogNFJZR6FZIPVgjeInzfhA8yT1knV66a_5uwwMycJXcw_RojAP0IBAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-b3e8be60921bb17f8afa88ebf114167d"
+http://requirejs.org/docs/errors.html#scripterror
+[Child 14410, Chrome_ChildThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14410, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1529949127162	geckodriver	INFO	geckodriver 0.18.0
+1529949127205	geckodriver	INFO	Listening on 127.0.0.1:51237
+1529949128369	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529949133601	Marionette	INFO	Listening on port 37989
+1529949133804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529950702679	geckodriver	INFO	geckodriver 0.18.0
+1529950702683	geckodriver	INFO	Listening on 127.0.0.1:52741
+1529950703937	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1529950708411	Marionette	INFO	Listening on port 39907
+1529950708461	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-e46dab842e875ffb76b9ace58051bf00/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemgGRTUouzS_IL4gvKE_WhOgBqteb1RQAAAA/cl-en/h-f2254a699fb36d652bde3bd132ab4d4b"
+http://requirejs.org/docs/errors.html#scripterror
+1530003268012	geckodriver	INFO	geckodriver 0.18.0
+1530003268042	geckodriver	INFO	Listening on 127.0.0.1:60403
+1530003269230	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530003274001	Marionette	INFO	Listening on port 41635
+1530003274215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-e46dab842e875ffb76b9ace58051bf00/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemgGRTUouzS_IL4gvKE_WhOgBqteb1RQAAAA/cl-en/h-55085365e61d0642c6e897aa8545b4a3"
+http://requirejs.org/docs/errors.html#scripterror
+1530157929221	geckodriver	INFO	geckodriver 0.18.0
+1530157929260	geckodriver	INFO	Listening on 127.0.0.1:39623
+1530157930412	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530157942717	Marionette	INFO	Listening on port 33767
+1530157942930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530158069868	geckodriver	INFO	geckodriver 0.18.0
+1530158069871	geckodriver	INFO	Listening on 127.0.0.1:44875
+1530158071095	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530158076020	Marionette	INFO	Listening on port 43939
+1530158076123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530158076586	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530158106290	geckodriver	INFO	geckodriver 0.18.0
+1530158106296	geckodriver	INFO	Listening on 127.0.0.1:37587
+1530158107642	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530158111919	Marionette	INFO	Listening on port 45645
+1530158112056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530158260652	geckodriver	INFO	geckodriver 0.18.0
+1530158260656	geckodriver	INFO	Listening on 127.0.0.1:43511
+1530158261847	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530158265819	Marionette	INFO	Listening on port 43155
+1530158265887	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17109, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530158450558	geckodriver	INFO	geckodriver 0.18.0
+1530158450561	geckodriver	INFO	Listening on 127.0.0.1:51041
+1530158451777	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530158455978	Marionette	INFO	Listening on port 42297
+1530158456002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530158579563	geckodriver	INFO	geckodriver 0.18.0
+1530158579566	geckodriver	INFO	Listening on 127.0.0.1:51295
+1530158580791	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530158584832	Marionette	INFO	Listening on port 38769
+1530158584909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530158585846	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530158598894	geckodriver	INFO	geckodriver 0.18.0
+1530158598897	geckodriver	INFO	Listening on 127.0.0.1:57217
+1530158600116	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530158604013	Marionette	INFO	Listening on port 32909
+1530158604043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530181456634	geckodriver	INFO	geckodriver 0.18.0
+1530181456672	geckodriver	INFO	Listening on 127.0.0.1:41505
+1530181458138	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530181471877	Marionette	INFO	Listening on port 35375
+1530181471992	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14336, Gecko_IOThread] WARNING: pipe error (103): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530181522363	geckodriver	INFO	geckodriver 0.18.0
+1530181522367	geckodriver	INFO	Listening on 127.0.0.1:53007
+1530181523761	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530181528300	Marionette	INFO	Listening on port 45515
+1530181528385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530181528888	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+1530184790173	geckodriver	INFO	geckodriver 0.18.0
+1530184790178	geckodriver	INFO	Listening on 127.0.0.1:46629
+1530184791429	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530184795737	Marionette	INFO	Listening on port 44433
+1530184795773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530184886709	geckodriver	INFO	geckodriver 0.18.0
+1530184886714	geckodriver	INFO	Listening on 127.0.0.1:36399
+1530184887996	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530184892364	Marionette	INFO	Listening on port 36547
+1530184892429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530248951986	geckodriver	INFO	geckodriver 0.18.0
+1530248952020	geckodriver	INFO	Listening on 127.0.0.1:40765
+1530248953223	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530248966777	Marionette	INFO	Listening on port 42285
+1530248966944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Error requesting /_/scs/apps-static/_/js/k=oz.gapi.en_US.gSajVxGHdss.O/m=googleapis_client,gapi_iframes_style_common,gapi_iframes_iframer/rt=j/sv=1/d=1/ed=1/am=wQ/rs=AGLTcCOpzKerBo099ihhrsgPOpwtm1kQ_g/cb=gapi.loaded_0: 
+Current location: https://apis.google.com/_/widget/render/signin?usegapi=1&approvalprompt=auto&clientid=442739719837.apps.googleusercontent.com&cookiepolicy=single_host_origin&accesstype=offline&apppackagename=com.application.zomato&state=c80325caff682a24044c14d998e631c1&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&hl=en&origin=https%3A%2F%2Fwww.zomato.com&url=https%3A%2F%2Fwww.zomato.com%2Fahmedabad&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.gSajVxGHdss.O%2Fm%3D__features__%2Fam%3DwQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCOpzKerBo099ihhrsgPOpwtm1kQ_g#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&id=I0_1530248997184&_gfid=I0_1530248997184&parent=https%3A%2F%2Fwww.zomato.com&pfname=&rpctoken=20687936
+JavaScript error: , line 0: uncaught exception: Error requesting /_/scs/apps-static/_/js/k=oz.connect.en.fA1VhYg_zas.O/m=c5t/rt=j/sv=1/d=1/ed=1/rs=AGLTcCMLXzASQ8ky4_f4hy7fCzw9DCIbkA/cb=gapi.loaded_1: 
+Current location: https://apis.google.com/_/widget/render/signin?usegapi=1&approvalprompt=auto&clientid=442739719837.apps.googleusercontent.com&cookiepolicy=single_host_origin&accesstype=offline&apppackagename=com.application.zomato&state=c80325caff682a24044c14d998e631c1&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&hl=en&origin=https%3A%2F%2Fwww.zomato.com&url=https%3A%2F%2Fwww.zomato.com%2Fahmedabad&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.gSajVxGHdss.O%2Fm%3D__features__%2Fam%3DwQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCOpzKerBo099ihhrsgPOpwtm1kQ_g#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&id=I0_1530248997184&_gfid=I0_1530248997184&parent=https%3A%2F%2Fwww.zomato.com&pfname=&rpctoken=20687936
+[Child 8769, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530249047489	geckodriver	INFO	geckodriver 0.18.0
+1530249047494	geckodriver	INFO	Listening on 127.0.0.1:40795
+1530249048713	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530249053239	Marionette	INFO	Listening on port 36007
+1530249053342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-a34236c423d0167ab5a69a333b2e8923/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyoGAIkOu2ETAAAA/cl-en/h-39de6f365d990d77e8929615158d3f1b"
+http://requirejs.org/docs/errors.html#scripterror
+1530249099138	geckodriver	INFO	geckodriver 0.18.0
+1530249099141	geckodriver	INFO	Listening on 127.0.0.1:53387
+1530249100537	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-39de6f365d990d77e8929615158d3f1b"
+http://requirejs.org/docs/errors.html#scripterror
+1530249107019	Marionette	INFO	Listening on port 35375
+1530249107121	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9004, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9214, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530249189748	geckodriver	INFO	geckodriver 0.18.0
+1530249189751	geckodriver	INFO	Listening on 127.0.0.1:35655
+1530249191041	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530249195448	Marionette	INFO	Listening on port 42279
+1530249195479	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9503, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9468, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9468, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530249250820	geckodriver	INFO	geckodriver 0.18.0
+1530249250824	geckodriver	INFO	Listening on 127.0.0.1:48389
+1530249252154	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530249256985	Marionette	INFO	Listening on port 44693
+1530249257079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530249457767	geckodriver	INFO	geckodriver 0.18.0
+1530249457774	geckodriver	INFO	Listening on 127.0.0.1:44937
+1530249459022	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530249463130	Marionette	INFO	Listening on port 41027
+1530249463155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 214: TypeError: this._mm is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10162, Gecko_IOThread] WARNING: pipe error (104): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530249489066	geckodriver	INFO	geckodriver 0.18.0
+1530249489073	geckodriver	INFO	Listening on 127.0.0.1:53805
+1530249490258	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530249495326	Marionette	INFO	Listening on port 35595
+1530249495387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-a34236c423d0167ab5a69a333b2e8923/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyoGAIkOu2ETAAAA/cl-en/h-39de6f365d990d77e8929615158d3f1b"
+http://requirejs.org/docs/errors.html#scripterror
+1530249672873	geckodriver	INFO	geckodriver 0.18.0
+1530249672876	geckodriver	INFO	Listening on 127.0.0.1:33383
+1530249674222	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530249719468	Marionette	INFO	Listening on port 33355
+1530249719481	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530249816004	geckodriver	INFO	geckodriver 0.18.0
+1530249816008	geckodriver	INFO	Listening on 127.0.0.1:43527
+1530249817201	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530249821776	Marionette	INFO	Listening on port 40275
+1530249821824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530250234443	geckodriver	INFO	geckodriver 0.18.0
+1530250234446	geckodriver	INFO	Listening on 127.0.0.1:36847
+1530250235792	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530250240537	Marionette	INFO	Listening on port 41095
+1530250240626	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11471, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530250266805	geckodriver	INFO	geckodriver 0.18.0
+1530250266808	geckodriver	INFO	Listening on 127.0.0.1:49133
+1530250268197	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530250273124	Marionette	INFO	Listening on port 34673
+1530250273224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530250274094	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+[Parent 11545, Gecko_IOThread] WARNING: pipe error (103): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530250303415	geckodriver	INFO	geckodriver 0.18.0
+1530250303421	geckodriver	INFO	Listening on 127.0.0.1:46817
+1530250304803	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530250309639	Marionette	INFO	Listening on port 36449
+1530250309732	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530250482752	geckodriver	INFO	geckodriver 0.18.0
+1530250482755	geckodriver	INFO	Listening on 127.0.0.1:52433
+1530250484086	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530250488302	Marionette	INFO	Listening on port 37685
+1530250488413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530250488832	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530251008231	geckodriver	INFO	geckodriver 0.18.0
+1530251008236	geckodriver	INFO	Listening on 127.0.0.1:58431
+1530251009518	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530251013625	Marionette	INFO	Listening on port 36085
+1530251013643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530251014455	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530251098086	geckodriver	INFO	geckodriver 0.18.0
+1530251098090	geckodriver	INFO	Listening on 127.0.0.1:43631
+1530251099280	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530251103521	Marionette	INFO	Listening on port 37457
+1530251103601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530251104538	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530251121717	geckodriver	INFO	geckodriver 0.18.0
+1530251121724	geckodriver	INFO	Listening on 127.0.0.1:54519
+1530251123034	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530251127378	Marionette	INFO	Listening on port 35829
+1530251127458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530251129838	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530251157825	geckodriver	INFO	geckodriver 0.18.0
+1530251157828	geckodriver	INFO	Listening on 127.0.0.1:38269
+1530251159282	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530251163327	Marionette	INFO	Listening on port 40155
+1530251163403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530251164870	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530251187088	geckodriver	INFO	geckodriver 0.18.0
+1530251187091	geckodriver	INFO	Listening on 127.0.0.1:38017
+1530251188292	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530251192320	Marionette	INFO	Listening on port 42189
+1530251192414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530251194399	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+[Parent 13302, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530251625705	geckodriver	INFO	geckodriver 0.18.0
+1530251625709	geckodriver	INFO	Listening on 127.0.0.1:59423
+1530251626888	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530251630765	Marionette	INFO	Listening on port 39785
+1530251630814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530251631797	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530251664528	geckodriver	INFO	geckodriver 0.18.0
+1530251664531	geckodriver	INFO	Listening on 127.0.0.1:34041
+1530251665814	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530251670342	Marionette	INFO	Listening on port 37133
+1530251670449	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530251697108	geckodriver	INFO	geckodriver 0.18.0
+1530251697112	geckodriver	INFO	Listening on 127.0.0.1:46069
+1530251698393	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530251703174	Marionette	INFO	Listening on port 41831
+1530251703219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530251707981	geckodriver	INFO	geckodriver 0.18.0
+1530251707985	geckodriver	INFO	Listening on 127.0.0.1:48339
+1530251709473	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530251714845	Marionette	INFO	Listening on port 46303
+1530251714926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530251716471	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+[Parent 14107, Gecko_IOThread] WARNING: pipe error (90): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "reactDom"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "adWordRemarketing"
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 13934, Gecko_IOThread] WARNING: pipe error (105): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530251736198	geckodriver	INFO	geckodriver 0.18.0
+1530251736201	geckodriver	INFO	Listening on 127.0.0.1:34433
+1530251737530	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530251742101	Marionette	INFO	Listening on port 40349
+1530251742157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530251742555	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530251821960	geckodriver	INFO	geckodriver 0.18.0
+1530251821964	geckodriver	INFO	Listening on 127.0.0.1:54549
+1530251823334	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530251827828	Marionette	INFO	Listening on port 40855
+1530251827870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530251828265	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530251855255	geckodriver	INFO	geckodriver 0.18.0
+1530251855261	geckodriver	INFO	Listening on 127.0.0.1:47625
+1530251856639	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530251860815	Marionette	INFO	Listening on port 37079
+1530251860885	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530251861436	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530251878828	geckodriver	INFO	geckodriver 0.18.0
+1530251878831	geckodriver	INFO	Listening on 127.0.0.1:50289
+1530251880154	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530251884350	Marionette	INFO	Listening on port 38871
+1530251884379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530251899389	geckodriver	INFO	geckodriver 0.18.0
+1530251899392	geckodriver	INFO	Listening on 127.0.0.1:52747
+1530251900705	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530251905552	Marionette	INFO	Listening on port 41787
+1530251905636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Error requesting /_/scs/apps-static/_/js/k=oz.gapi.en_US.gSajVxGHdss.O/m=googleapis_client,gapi_iframes_style_common,gapi_iframes_iframer/rt=j/sv=1/d=1/ed=1/am=wQ/rs=AGLTcCOpzKerBo099ihhrsgPOpwtm1kQ_g/cb=gapi.loaded_0: 
+Current location: https://apis.google.com/_/widget/render/signin?usegapi=1&approvalprompt=auto&clientid=442739719837.apps.googleusercontent.com&cookiepolicy=single_host_origin&accesstype=offline&apppackagename=com.application.zomato&state=3db990d6491e2072dffa7fd0fa84619f&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&hl=en&origin=https%3A%2F%2Fwww.zomato.com&url=https%3A%2F%2Fwww.zomato.com%2Fahmedabad&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.gSajVxGHdss.O%2Fm%3D__features__%2Fam%3DwQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCOpzKerBo099ihhrsgPOpwtm1kQ_g#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&id=I0_1530251941326&_gfid=I0_1530251941326&parent=https%3A%2F%2Fwww.zomato.com&pfname=&rpctoken=13126687
+JavaScript error: , line 0: uncaught exception: Error requesting /_/scs/apps-static/_/js/k=oz.connect.en.fA1VhYg_zas.O/m=c5t/rt=j/sv=1/d=1/ed=1/rs=AGLTcCMLXzASQ8ky4_f4hy7fCzw9DCIbkA/cb=gapi.loaded_1: 
+Current location: https://apis.google.com/_/widget/render/signin?usegapi=1&approvalprompt=auto&clientid=442739719837.apps.googleusercontent.com&cookiepolicy=single_host_origin&accesstype=offline&apppackagename=com.application.zomato&state=3db990d6491e2072dffa7fd0fa84619f&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&hl=en&origin=https%3A%2F%2Fwww.zomato.com&url=https%3A%2F%2Fwww.zomato.com%2Fahmedabad&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.gSajVxGHdss.O%2Fm%3D__features__%2Fam%3DwQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCOpzKerBo099ihhrsgPOpwtm1kQ_g#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&id=I0_1530251941326&_gfid=I0_1530251941326&parent=https%3A%2F%2Fwww.zomato.com&pfname=&rpctoken=13126687
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "adWordRemarketing"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "adWordRemarketing"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "adWordRemarketing"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "adWordRemarketing"
+http://requirejs.org/docs/errors.html#scripterror
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15200, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530251966090	geckodriver	INFO	geckodriver 0.18.0
+1530251966093	geckodriver	INFO	Listening on 127.0.0.1:40301
+1530251967385	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530251972065	Marionette	INFO	Listening on port 45263
+1530251972122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530252003315	geckodriver	INFO	geckodriver 0.18.0
+1530252003319	geckodriver	INFO	Listening on 127.0.0.1:57037
+1530252004757	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+[Child 15406, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530252010605	Marionette	INFO	Listening on port 41951
+1530252010688	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530252036804	geckodriver	INFO	geckodriver 0.18.0
+1530252036807	geckodriver	INFO	Listening on 127.0.0.1:48973
+1530252038033	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530252042403	Marionette	INFO	Listening on port 34417
+1530252042465	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530252043109	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530252067246	geckodriver	INFO	geckodriver 0.18.0
+1530252067250	geckodriver	INFO	Listening on 127.0.0.1:60919
+1530252068482	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530252072601	Marionette	INFO	Listening on port 38271
+1530252072713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530252073036	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530252089762	geckodriver	INFO	geckodriver 0.18.0
+1530252089765	geckodriver	INFO	Listening on 127.0.0.1:41255
+1530252091016	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530252095704	Marionette	INFO	Listening on port 34875
+1530252095753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530252096431	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530252114223	geckodriver	INFO	geckodriver 0.18.0
+1530252114227	geckodriver	INFO	Listening on 127.0.0.1:33995
+1530252115432	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530252119537	Marionette	INFO	Listening on port 41943
+1530252119573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530252120108	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+[Parent 16318, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530252337658	geckodriver	INFO	geckodriver 0.18.0
+1530252337661	geckodriver	INFO	Listening on 127.0.0.1:38733
+1530252338915	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530252343161	Marionette	INFO	Listening on port 44749
+1530252343241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530252343486	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530252381648	geckodriver	INFO	geckodriver 0.18.0
+1530252381651	geckodriver	INFO	Listening on 127.0.0.1:41243
+1530252382937	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530252387263	Marionette	INFO	Listening on port 43765
+1530252387361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530252387801	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530252410911	geckodriver	INFO	geckodriver 0.18.0
+1530252410916	geckodriver	INFO	Listening on 127.0.0.1:58113
+1530252412164	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530252416344	Marionette	INFO	Listening on port 46373
+1530252416410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530252416726	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530252437091	geckodriver	INFO	geckodriver 0.18.0
+1530252437094	geckodriver	INFO	Listening on 127.0.0.1:59423
+1530252438315	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530252442656	Marionette	INFO	Listening on port 37483
+1530252442744	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530252599423	geckodriver	INFO	geckodriver 0.18.0
+1530252599426	geckodriver	INFO	Listening on 127.0.0.1:59255
+1530252600722	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530252605604	Marionette	INFO	Listening on port 33377
+1530252605645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530252606024	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530252621987	geckodriver	INFO	geckodriver 0.18.0
+1530252621990	geckodriver	INFO	Listening on 127.0.0.1:48361
+1530252623360	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530252627773	Marionette	INFO	Listening on port 43919
+1530252627784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530252630063	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530252854251	geckodriver	INFO	geckodriver 0.18.0
+1530252854258	geckodriver	INFO	Listening on 127.0.0.1:44745
+1530252855640	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530252860146	Marionette	INFO	Listening on port 46051
+1530252860175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530252861052	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530252981008	geckodriver	INFO	geckodriver 0.18.0
+1530252981012	geckodriver	INFO	Listening on 127.0.0.1:57483
+1530252982284	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530252986629	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js :: shutdown :: line 173"  data: no] Stack trace: shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:173
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+1530252986963	Marionette	INFO	Listening on port 39299
+1530252987008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530252988338	geckodriver	INFO	geckodriver 0.18.0
+1530252988341	geckodriver	INFO	Listening on 127.0.0.1:45417
+1530252989611	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530252993317	Marionette	INFO	Listening on port 41457
+1530252993331	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530253013163	geckodriver	INFO	geckodriver 0.18.0
+1530253013166	geckodriver	INFO	Listening on 127.0.0.1:57885
+1530253014372	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530253018769	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+1530253018871	Marionette	FATAL	Remote protocol server failed to start: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIServerSocket.asyncListen]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: chrome://marionette/content/server.js :: set acceptConnections :: line 92"  data: no] Stack trace: set acceptConnections()@server.js:92
+start()@server.js:116
+init/<()@jar:file:///usr/lib/firefox/omni.ja!/components/marionette.js:537
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/marionette.js, line 547: TypeError: this.server is null
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 247: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 159}]'[JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 159}]' when calling method: [nsIHandlerService::store]
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530253049546	geckodriver	INFO	geckodriver 0.18.0
+1530253049549	geckodriver	INFO	Listening on 127.0.0.1:40639
+1530253050848	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530253055912	Marionette	INFO	Listening on port 34113
+1530253055978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530253080945	geckodriver	INFO	geckodriver 0.18.0
+1530253080952	geckodriver	INFO	Listening on 127.0.0.1:49925
+1530253082512	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530253088531	Marionette	INFO	Listening on port 34581
+1530253088559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530253090350	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530253170247	geckodriver	INFO	geckodriver 0.18.0
+1530253170256	geckodriver	INFO	Listening on 127.0.0.1:50083
+1530253171563	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530253176786	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+1530253176997	Marionette	INFO	Listening on port 42737
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530253205945	geckodriver	INFO	geckodriver 0.18.0
+1530253205948	geckodriver	INFO	Listening on 127.0.0.1:33921
+1530253207236	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530253211824	Marionette	INFO	Listening on port 44411
+1530253211877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530253214475	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530253587589	geckodriver	INFO	geckodriver 0.18.0
+1530253587594	geckodriver	INFO	Listening on 127.0.0.1:51855
+1530253588830	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530253593232	Marionette	INFO	Listening on port 46051
+1530253593256	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19794, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530253607922	geckodriver	INFO	geckodriver 0.18.0
+1530253607926	geckodriver	INFO	Listening on 127.0.0.1:59021
+1530253609159	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530253614217	Marionette	INFO	Listening on port 34247
+1530253614281	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530253616413	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530253637441	geckodriver	INFO	geckodriver 0.18.0
+1530253637445	geckodriver	INFO	Listening on 127.0.0.1:47089
+1530253638806	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530253643310	Marionette	INFO	Listening on port 33903
+1530253643328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530253643763	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530253656957	geckodriver	INFO	geckodriver 0.18.0
+1530253656961	geckodriver	INFO	Listening on 127.0.0.1:47061
+1530253658402	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530253664193	Marionette	INFO	Listening on port 44455
+1530253664265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530253665678	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 614))
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530253706656	geckodriver	INFO	geckodriver 0.18.0
+1530253706661	geckodriver	INFO	Listening on 127.0.0.1:43109
+1530253707974	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530253712572	Marionette	INFO	Listening on port 44667
+1530253712613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530255360535	geckodriver	INFO	geckodriver 0.18.0
+1530255360538	geckodriver	INFO	Listening on 127.0.0.1:50675
+1530255362042	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530255366596	Marionette	INFO	Listening on port 38931
+1530255366677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530255367858	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 614))
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530255378143	geckodriver	INFO	geckodriver 0.18.0
+1530255378150	geckodriver	INFO	Listening on 127.0.0.1:39783
+1530255379564	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530255384916	Marionette	INFO	Listening on port 43733
+1530255385008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530255387375	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+[Parent 21085, Gecko_IOThread] WARNING: pipe error (102): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530255503174	geckodriver	INFO	geckodriver 0.18.0
+1530255503183	geckodriver	INFO	Listening on 127.0.0.1:42145
+1530255504602	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530255510153	Marionette	INFO	Listening on port 42653
+1530255510242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530263174482	geckodriver	INFO	geckodriver 0.18.0
+1530263174532	geckodriver	INFO	Listening on 127.0.0.1:43571
+1530263176013	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530263189825	Marionette	INFO	Listening on port 33525
+1530263190254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530263229219	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1530263242829	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530272617121	geckodriver	INFO	geckodriver 0.18.0
+1530272617149	geckodriver	INFO	Listening on 127.0.0.1:49343
+1530272618703	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530272632316	Marionette	INFO	Listening on port 44189
+1530272632419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530276934901	geckodriver	INFO	geckodriver 0.18.0
+1530276934927	geckodriver	INFO	Listening on 127.0.0.1:51309
+1530276936325	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530276950621	Marionette	INFO	Listening on port 35411
+1530276950751	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "adWordRemarketing"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "react"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "reactDom"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-5ea83551ef0e575f1db3afbdadac5eee"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-64af309bee7f18f13b07500f5dc82fe2/l-H4sIAAAAAAAAA32SS3bDMAhFN9Qmi2lHnehgi8gkWLgSSmqvvvIvxRl0Ji6Cx09pyOOpp3i65rdJelA5McRQIOCMWul7iWeFECgG8ynhnfCRDckdpCWmF18Y87lDHjDNxBOwBOur5qq5CbQiN8J8DAe_hu_kWvpGLACfXRAJvOhevwum8TR9SFv1ZjJwqTI1cPUwTCMLeKMLEXhUavOhFmZslSRaineMegA_msDYF2ixqW0Y9NfCBpa2XaYQy2Dw0ImKzT2wjBditixhfi9KL-y5hb0KRO-gVn8nHQ3PCKntLHhO6QBcRH1Ium3b3vcvrkHnkVHRjk8fpHrosOSjWQs-9P8ykAbam6vvAZQatie3X2H1Rq2zNq6vz1TDbJ5_1lISuw6i5_U_U5Mg1VM71yPCFGna0iwiJvGk83sbw_J2dEnQLzVOFGmu6BcobwGpPwMAAA/cl-en/h-5ea83551ef0e575f1db3afbdadac5eee"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-5e2f9ece915c9fe12727bf2c16592df7/l-H4sIAAAAAAAAA12PUW7EMAhEL1QlUqWexyI2a5NiSA2Wujl9HTcf234yw8AbEnPIDWo4tYLrstvb_tWxPZfilT_6wQrpRbXYlDkWMGxLJbmshuNIbyD-d1oh3RuRgWpgMifJl1A1dUZbK56nriPQ_OXJjokcNsZL0_dQkA9sdk_jQTggT_PgnklsZcrFN_3-B0DymJXKMxPKTPQBHuLogNFJZR6FZIPVgjeInzfhA8yT1knV66a_5uwwMycJXcw_RojAP0IBAAA/cl-en/h-5ea83551ef0e575f1db3afbdadac5eee"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-5ea83551ef0e575f1db3afbdadac5eee"
+http://requirejs.org/docs/errors.html#scripterror
+[Child 2562, Chrome_ChildThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2562, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4D0002,name=PLayerTransaction::Msg_Update) Channel error: cannot send/recv
+
+1530277015290	geckodriver	INFO	geckodriver 0.18.0
+1530277015294	geckodriver	INFO	Listening on 127.0.0.1:53265
+1530277016727	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530277022451	Marionette	INFO	Listening on port 44809
+1530277022485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "reactDom"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-e46dab842e875ffb76b9ace58051bf00/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemgGRTUouzS_IL4gvKE_WhOgBqteb1RQAAAA/cl-en/h-5ea83551ef0e575f1db3afbdadac5eee"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-e46dab842e875ffb76b9ace58051bf00/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemgGRTUouzS_IL4gvKE_WhOgBqteb1RQAAAA/cl-en/h-5ea83551ef0e575f1db3afbdadac5eee"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-1e6912c95d9a1358dad0fd133343b81e/l-H4sIAAAAAAAAA12OQRbCIAxEL-RrV56HFyFtUwlREhbl9AJ2UV1mJjPzKanBmoFdFQaTadfb_i6Yj2kzjvfyigLhoqrPEqPfQDFPTKlbGVtJyZDs95ohnB8-ArGLpEZp7QJLKBF1ZqxV5hbIdhnZMZDBI-JfH6VlEG7HSpiGWxqH8w0JvZEk7RoEbdPqLIN_noMLqAXhMVL4IV9zII1MpUQd4QPxk--4EQEAAA/cl-en/h-5ea83551ef0e575f1db3afbdadac5eee"
+http://requirejs.org/docs/errors.html#scripterror
+[Child 2766, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530431174648	geckodriver	INFO	geckodriver 0.18.0
+1530431174681	geckodriver	INFO	Listening on 127.0.0.1:34169
+1530431176173	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530431181280	Marionette	INFO	Listening on port 36939
+1530431181348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "reactDom"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "react"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "react"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "reactDom"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "reactDom"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "react"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "react"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "reactDom"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "react"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "reactDom"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "reactDom"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "react"
+http://requirejs.org/docs/errors.html#scripterror
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6085, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530438996628	geckodriver	INFO	geckodriver 0.18.0
+1530438996665	geckodriver	INFO	Listening on 127.0.0.1:41201
+1530438997829	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530439000822	geckodriver	INFO	geckodriver 0.18.0
+1530439000830	geckodriver	INFO	Listening on 127.0.0.1:33505
+1530439001942	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530439009651	geckodriver	INFO	geckodriver 0.18.0
+1530439009656	geckodriver	INFO	Listening on 127.0.0.1:57323
+1530439010770	geckodriver	INFO	geckodriver 0.18.0
+1530439010775	geckodriver	INFO	Listening on 127.0.0.1:35929
+1530439010934	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530439011821	geckodriver	INFO	geckodriver 0.18.0
+1530439011824	geckodriver	INFO	Listening on 127.0.0.1:54745
+1530439012002	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530439012266	Marionette	INFO	Listening on port 38901
+1530439012282	Marionette	INFO	Listening on port 46193
+1530439012355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530439012356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530439012997	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530439020526	Marionette	INFO	Listening on port 40323
+1530439020569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530439021947	Marionette	INFO	Listening on port 37707
+1530439022044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530439022348	Marionette	INFO	Listening on port 33783
+1530439022438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "react", needed by: reactDom
+http://requirejs.org/docs/errors.html#scripterror
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4394, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530439140266	geckodriver	INFO	geckodriver 0.18.0
+1530439140269	geckodriver	INFO	Listening on 127.0.0.1:47833
+1530439141383	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530439145125	Marionette	INFO	Listening on port 41649
+1530439145201	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-ad0460e47c729235321be5de332026e3"
+http://requirejs.org/docs/errors.html#scripterror
+1530439302637	geckodriver	INFO	geckodriver 0.18.0
+1530439302640	geckodriver	INFO	Listening on 127.0.0.1:60125
+1530439303747	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530439307514	Marionette	INFO	Listening on port 34697
+1530439307571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "reactDom"
+http://requirejs.org/docs/errors.html#scripterror
+1530439490754	geckodriver	INFO	geckodriver 0.18.0
+1530439490757	geckodriver	INFO	Listening on 127.0.0.1:33131
+1530439491867	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530439495209	Marionette	INFO	Listening on port 38089
+1530439495283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Error requesting /_/scs/apps-static/_/js/k=oz.connect.en.unNqmlTdYIc.O/m=c5t/rt=j/sv=1/d=1/ed=1/rs=AGLTcCNWrBGHSN-7JqmL1XKtoF8KgeX-Nw/cb=gapi.loaded_1: 
+Current location: https://apis.google.com/_/widget/render/signin?usegapi=1&approvalprompt=auto&clientid=442739719837.apps.googleusercontent.com&cookiepolicy=single_host_origin&accesstype=offline&apppackagename=com.application.zomato&state=e0394447c39503e1064a8c1c3f1777f1&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&hl=en&origin=https%3A%2F%2Fwww.zomato.com&url=https%3A%2F%2Fwww.zomato.com%2Fahmedabad&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.hfiMrY347qE.O%2Fm%3D__features__%2Fam%3DwQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCMOrzLFQ_Qou2Cj9qH2b2vdRcf4zQ#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&id=I0_1530439537704&_gfid=I0_1530439537704&parent=https%3A%2F%2Fwww.zomato.com&pfname=&rpctoken=24039034
+JavaScript error: , line 0: uncaught exception: Error requesting /_/scs/apps-static/_/js/k=oz.gapi.en_US.hfiMrY347qE.O/m=googleapis_client,gapi_iframes_style_common,gapi_iframes_iframer/rt=j/sv=1/d=1/ed=1/am=wQ/rs=AGLTcCMOrzLFQ_Qou2Cj9qH2b2vdRcf4zQ/cb=gapi.loaded_0: 
+Current location: https://apis.google.com/_/widget/render/signin?usegapi=1&approvalprompt=auto&clientid=442739719837.apps.googleusercontent.com&cookiepolicy=single_host_origin&accesstype=offline&apppackagename=com.application.zomato&state=e0394447c39503e1064a8c1c3f1777f1&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&hl=en&origin=https%3A%2F%2Fwww.zomato.com&url=https%3A%2F%2Fwww.zomato.com%2Fahmedabad&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.hfiMrY347qE.O%2Fm%3D__features__%2Fam%3DwQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCMOrzLFQ_Qou2Cj9qH2b2vdRcf4zQ#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&id=I0_1530439537704&_gfid=I0_1530439537704&parent=https%3A%2F%2Fwww.zomato.com&pfname=&rpctoken=24039034
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-e46dab842e875ffb76b9ace58051bf00/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemgGRTUouzS_IL4gvKE_WhOgBqteb1RQAAAA/cl-en/h-ad0460e47c729235321be5de332026e3"
+http://requirejs.org/docs/errors.html#scripterror
+1530439624421	geckodriver	INFO	geckodriver 0.18.0
+1530439624424	geckodriver	INFO	Listening on 127.0.0.1:51363
+1530439625529	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530439628855	Marionette	INFO	Listening on port 41783
+1530439628948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js, line 7: Error: Script error for "https://static.zmtcdn.com/genjs/t-e46dab842e875ffb76b9ace58051bf00/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemgGRTUouzS_IL4gvKE_WhOgBqteb1RQAAAA/cl-en/h-ad0460e47c729235321be5de332026e3"
+http://requirejs.org/docs/errors.html#scripterror
+1530439855071	geckodriver	INFO	geckodriver 0.18.0
+1530439855080	geckodriver	INFO	Listening on 127.0.0.1:37467
+1530439856546	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530439860919	Marionette	INFO	Listening on port 34695
+1530439860976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530439881234	geckodriver	INFO	geckodriver 0.18.0
+1530439881237	geckodriver	INFO	Listening on 127.0.0.1:58811
+1530439882460	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530439886499	Marionette	INFO	Listening on port 41703
+1530439886577	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530439939064	geckodriver	INFO	geckodriver 0.18.0
+1530439939072	geckodriver	INFO	Listening on 127.0.0.1:52279
+1530439940570	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530439945227	Marionette	INFO	Listening on port 42543
+1530439945298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530439945758	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+[Parent 6120, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530439961520	geckodriver	INFO	geckodriver 0.18.0
+1530439961522	geckodriver	INFO	Listening on 127.0.0.1:40305
+1530439962644	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530439966310	Marionette	INFO	Listening on port 43963
+1530439966369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530439968177	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530439986765	geckodriver	INFO	geckodriver 0.18.0
+1530439986770	geckodriver	INFO	Listening on 127.0.0.1:33915
+1530439988192	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530439992445	Marionette	INFO	Listening on port 41641
+1530439992519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530439993612	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530440007531	geckodriver	INFO	geckodriver 0.18.0
+1530440007534	geckodriver	INFO	Listening on 127.0.0.1:40621
+1530440008647	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530440012225	Marionette	INFO	Listening on port 35089
+1530440012264	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530440097058	geckodriver	INFO	geckodriver 0.18.0
+1530440097064	geckodriver	INFO	Listening on 127.0.0.1:42483
+1530440098437	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530440104787	Marionette	INFO	Listening on port 34889
+1530440104927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Error requesting /_/scs/apps-static/_/js/k=oz.gapi.en_US.hfiMrY347qE.O/m=googleapis_client,gapi_iframes_style_common,gapi_iframes_iframer/rt=j/sv=1/d=1/ed=1/am=wQ/rs=AGLTcCMOrzLFQ_Qou2Cj9qH2b2vdRcf4zQ/cb=gapi.loaded_0: 
+Current location: https://apis.google.com/_/widget/render/signin?usegapi=1&approvalprompt=auto&clientid=442739719837.apps.googleusercontent.com&cookiepolicy=single_host_origin&accesstype=offline&apppackagename=com.application.zomato&state=0d173da8bc27d036d0b87367fa53d17b&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&hl=en&origin=https%3A%2F%2Fwww.zomato.com&url=https%3A%2F%2Fwww.zomato.com%2Fahmedabad&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.hfiMrY347qE.O%2Fm%3D__features__%2Fam%3DwQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCMOrzLFQ_Qou2Cj9qH2b2vdRcf4zQ#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&id=I0_1530440125895&_gfid=I0_1530440125895&parent=https%3A%2F%2Fwww.zomato.com&pfname=&rpctoken=19350207
+JavaScript error: , line 0: uncaught exception: Error requesting /_/scs/apps-static/_/js/k=oz.connect.en.unNqmlTdYIc.O/m=c5t/rt=j/sv=1/d=1/ed=1/rs=AGLTcCNWrBGHSN-7JqmL1XKtoF8KgeX-Nw/cb=gapi.loaded_1: 
+Current location: https://apis.google.com/_/widget/render/signin?usegapi=1&approvalprompt=auto&clientid=442739719837.apps.googleusercontent.com&cookiepolicy=single_host_origin&accesstype=offline&apppackagename=com.application.zomato&state=0d173da8bc27d036d0b87367fa53d17b&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&hl=en&origin=https%3A%2F%2Fwww.zomato.com&url=https%3A%2F%2Fwww.zomato.com%2Fahmedabad&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.hfiMrY347qE.O%2Fm%3D__features__%2Fam%3DwQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCMOrzLFQ_Qou2Cj9qH2b2vdRcf4zQ#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&id=I0_1530440125895&_gfid=I0_1530440125895&parent=https%3A%2F%2Fwww.zomato.com&pfname=&rpctoken=19350207
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6916, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530440222791	geckodriver	INFO	geckodriver 0.18.0
+1530440222797	geckodriver	INFO	Listening on 127.0.0.1:48457
+1530440224238	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530440229762	Marionette	INFO	Listening on port 33589
+1530440229791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Error requesting /_/scs/apps-static/_/js/k=oz.gapi.en_US.hfiMrY347qE.O/m=googleapis_client,gapi_iframes_style_common,gapi_iframes_iframer/rt=j/sv=1/d=1/ed=1/am=wQ/rs=AGLTcCMOrzLFQ_Qou2Cj9qH2b2vdRcf4zQ/cb=gapi.loaded_0: 
+Current location: https://apis.google.com/_/widget/render/signin?usegapi=1&approvalprompt=auto&clientid=442739719837.apps.googleusercontent.com&cookiepolicy=single_host_origin&accesstype=offline&apppackagename=com.application.zomato&state=45526930def37d73ab5c055b9ff02aa6&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&hl=en&origin=https%3A%2F%2Fwww.zomato.com&url=https%3A%2F%2Fwww.zomato.com%2Fahmedabad&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.hfiMrY347qE.O%2Fm%3D__features__%2Fam%3DwQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCMOrzLFQ_Qou2Cj9qH2b2vdRcf4zQ#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&id=I0_1530440270527&_gfid=I0_1530440270527&parent=https%3A%2F%2Fwww.zomato.com&pfname=&rpctoken=11232560
+JavaScript error: , line 0: uncaught exception: Error requesting /_/scs/apps-static/_/js/k=oz.connect.en.unNqmlTdYIc.O/m=c5t/rt=j/sv=1/d=1/ed=1/rs=AGLTcCNWrBGHSN-7JqmL1XKtoF8KgeX-Nw/cb=gapi.loaded_1: 
+Current location: https://apis.google.com/_/widget/render/signin?usegapi=1&approvalprompt=auto&clientid=442739719837.apps.googleusercontent.com&cookiepolicy=single_host_origin&accesstype=offline&apppackagename=com.application.zomato&state=45526930def37d73ab5c055b9ff02aa6&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&hl=en&origin=https%3A%2F%2Fwww.zomato.com&url=https%3A%2F%2Fwww.zomato.com%2Fahmedabad&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.hfiMrY347qE.O%2Fm%3D__features__%2Fam%3DwQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCMOrzLFQ_Qou2Cj9qH2b2vdRcf4zQ#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&id=I0_1530440270527&_gfid=I0_1530440270527&parent=https%3A%2F%2Fwww.zomato.com&pfname=&rpctoken=11232560
+1530440329836	geckodriver	INFO	geckodriver 0.18.0
+1530440329842	geckodriver	INFO	Listening on 127.0.0.1:56145
+1530440330154	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530440335866	Marionette	INFO	Listening on port 46253
+1530440335905	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7572, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7537, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

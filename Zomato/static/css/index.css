@@ -1,0 +1,36 @@
+.container {
+  position: relative;
+  margin-top: auto;
+  z-index: 2;
+}
+
+
+.text-color {
+  color: white;
+}
+
+
+.img{
+  background-image: url("/static/images/background.png");
+  background-size: 1850px 1000px;
+  height: 990px
+  }
+
+@media screen and (max-width: 768px) {
+  .jumbotron {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
+
+div#loading {
+    width: auto;
+    height: auto;
+    display: none;
+    /*position: absolute;*/
+    /*margin: 450px 0px 0px 800px;*/
+    background: url("/static/images/loader1.gif") no-repeat;
+    /*background-position: center;*/
+    /*background-size: cover;*/
+    cursor: wait;
+    }
