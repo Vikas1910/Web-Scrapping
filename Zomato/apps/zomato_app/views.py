@@ -30,6 +30,7 @@ def images(user_input):
 			l.append(a)
 			a=[]
 		count +=1
+	l.append(a)
 	context = {"images": l,
 				"res_name": user_input}
 	return context
